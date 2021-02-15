@@ -1,0 +1,48 @@
+.header-post{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:linen;
+}
+
+.Post-list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Post-item{
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0 21px;
+  margin: 21px;
+  background-color: mistyrose;
+  border-radius: 21px ;
+  border:black solid 1.5px;
+}
+
+.foot-Post-item{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  
+}
+
+.button-edit-delete{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button{
+margin: 5px;
+border-radius: 5px;
+background-color: white;
+padding: 5px;
+width: 69px;
+border: 1px solid
+}
