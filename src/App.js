@@ -1,7 +1,8 @@
 import {
   BrowserRouter ,
   Switch,
-  Route
+  Route,
+  Link
  } from 'react-router-dom'
 import HomePage from './pages/HomePage'
 import AddPostPage from './pages/AddPostPage'
